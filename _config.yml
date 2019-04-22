@@ -1,0 +1,17 @@
+# Site settings
+title: Abhishek Kumar
+description: My Digital Portfolio.
+baseurl: "https://abhiksngh.github.io/"
+
+# User settings
+username: abhiksngh
+user_description: An Aspiring Data Scientist & Tableau Vizard.
+user_title: Data Analyst
+email: abhisngh@live.com
+github_username:  abhiksngh
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
